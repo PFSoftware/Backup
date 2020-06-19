@@ -6,6 +6,7 @@
         mc:Ignorable="d"
         Style="{StaticResource WindowStyle}"
         Title="{Binding Path=Content.Title, ElementName=MainFrame}"
+        Icon="Backup.ico"
         MinWidth="1032"
         MinHeight="600"
         WindowState="Maximized"
